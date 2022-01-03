@@ -21,6 +21,6 @@
  <a href="https://discord.gg/ZgqzrVFFV2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](!coloque seu repositorio aqui)
+  ![Snake animation](https://github.com/dev-gameric/dev-gameric/blob/output/github-contribution-grid-snake.svg)
  
 </div>
