@@ -1,7 +1,7 @@
 ### Olá! Sou Eric Silva programador junior. 😄💻
 
 
-- 🔭 Ensino Superior: Engenharia de computação (4º Período)(Trancado).
+- 🔭 Ensino Superior: Engenharia de computação (4º Período).
 - 🌱 Estudando JS,HTML,CSS
 <div align="center">
   <a href="https://github.com/dev-gameric">
