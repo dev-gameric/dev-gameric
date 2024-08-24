@@ -1,5 +1,5 @@
-### Olá! Sou Eric Silva programador junior. 😄💻
-
+### Olá! Sou Eric Silva Desenvolvedor Full Stack. 👩🏽‍💻
+### CEO da Gameric Technology Solutions. 🧑🏽‍💼
 
 - 🔭 Ensino Superior: Engenharia de computação.
 <div align="center">
