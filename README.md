@@ -1,7 +1,7 @@
 ### Olá! Sou Eric Silva Desenvolvedor Full Stack. 👩🏽‍💻
 ### CEO da Gameric Technology Solutions. 🧑🏽‍💼
 
-- 🔭 Ensino Superior: Engenharia de computação.
+- 🔭 Ensino Superior: Engenharia de computação(UNICEUMA).
 <div align="center">
   <a href="https://github.com/dev-gameric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-gameric&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
